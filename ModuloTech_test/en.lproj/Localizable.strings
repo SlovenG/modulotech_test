@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  ModuloTech_test
+
+  Created by Sloven Graciet on 30/03/2021.
+  
+*/
+
+// MARK: Tab
+
+"Devices" = "Devices";
+"User" = "User";
+
+
+// MARK: DevicesListViewModel
+
+"Devices" = "Devices";
+"Light" = "Light";
+"RollerShutter" = "RollerShutter";
+"Heater" = "Heater";
+	
+// MARK: DetailsDevices
+
+"Temperature" = "Temperature";
+"Position" = "Position";
+"Intensity" = "Intensity";
+"Mode" = "Mode";
+
+"Intensity:" = "Intensity: %d";
+"Position:" = "Position: %d";
+"Temperature:" = "Temperature: %.1f °C";
+
+
+// MARK: UserViewModel
+
+"FirstName" = "FirstName";
+"LastName" = "LastName";
+"BirthDate" = "Birth Date";
+"StreetCode" = "Street Code";
+"Street" = "Street";
+"City" = "City";
+"PostalCode" = "Postal Code";
+"Country" = "Country";
